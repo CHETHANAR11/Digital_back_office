@@ -1,0 +1,14 @@
+// {
+//   "extends": "@react-native/typescript-config/tsconfig.json"
+// }
+
+
+{
+  "compilerOptions": {
+    "jsx": "react-native",
+    "esModuleInterop": true,
+    "noImplicitAny": false,
+    "target": "es5",
+    "downlevelIteration": true
+  }
+}
